@@ -1,16 +1,13 @@
-## Hi there 👋
+meu nome é lucca ramos
 
-<!--
-**lucca112/lucca112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou estudando na alura
+estou me desenvolvendo na linguagem javascript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-Here are some ideas to get you started:
+vocẽ pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+alurastartestudante@gmail.com
+
+@alurastartestudante
+
+! {https://tenor.com/pt-BR/view/error-wait-computer-download-cat-gif-10480536} (link)
